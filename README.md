@@ -9,3 +9,6 @@
 1. Don't use Always On Display(or experience bootloop)
 2. Be patient during first time setup
 3. Use device for 1-2 days for better stability
+
+# Download
+<a href="https://drive.google.com/drive/folders/1zfyaXmZHYyLUYvpOi1fmIffoqBlPVI0X?usp=drive_link">HyperOS 3.0 Download</a> <br>
