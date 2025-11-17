@@ -10,6 +10,6 @@
 2. Be patient during first time setup
 3. Use device for 1-2 days for better stability
 4. Flash Hyperunlocked module for better stability
-
+5. You may see Black screen during first boot, Don't get panic
 # Download
 <a href="https://drive.google.com/drive/folders/1zfyaXmZHYyLUYvpOi1fmIffoqBlPVI0X?usp=drive_link">HyperOS 3.0 Download</a> <br>
